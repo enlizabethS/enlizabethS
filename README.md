@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elizabeth</h1>
-<h2 aligin="center">20 years old</h2>
+<h2 align="center">20 years old</h2>
 <h3 align="center">I'm a programmer. FrontEnd and BackEnd. And I know the basics QA.</h3>
 
 - 🌱 I’m currently learning: **AIT TR courses**

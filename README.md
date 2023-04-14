@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm Elizabeth</h1>
+<h2 aligin="center">20 years old</h2>
 <h3 align="center">I'm a programmer. FrontEnd and BackEnd. And I know the basics QA.</h3>
 
-- 🌱 I’m currently learning **AIT TR courses**
+- 🌱 I’m currently learning: **AIT TR courses**
 
-- 👨‍💻 All of my projects are available at [https://github.com/enlizabethS?tab=repositories](https://github.com/enlizabethS?tab=repositories)
+- 👨‍💻 All of my projects are available at: [https://github.com/enlizabethS?tab=repositories](https://github.com/enlizabethS?tab=repositories)
 
-- 📝 I sometimes create interesting content [https://instagram.com/_endorphinchik_?utm_medium=copy_link](https://instagram.com/_endorphinchik_?utm_medium=copy_link)
+- 📝 I sometimes create interesting content: [https://instagram.com/_endorphinchik_?utm_medium=copy_link](https://instagram.com/_endorphinchik_?utm_medium=copy_link)
 
-- 📫 My Telegram **endorphinchik18**
+- 📫 My Telegram: **endorphinchik18**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AP8TSeHSsmHhe-TSKb2yEASneXk_Czyl/view?usp=sharing](https://drive.google.com/file/d/1AP8TSeHSsmHhe-TSKb2yEASneXk_Czyl/view?usp=sharing)
+- 📄 Know about my experiences: [https://drive.google.com/file/d/1AP8TSeHSsmHhe-TSKb2yEASneXk_Czyl/view?usp=sharing](https://drive.google.com/file/d/1AP8TSeHSsmHhe-TSKb2yEASneXk_Czyl/view?usp=sharing)
 
-- ⚡ Fact **I am an extremely creative person. I also adhere to this position in programming. My creativity and logic miraculously fit. I love to sing, and I write poems to songs to order. I like to think positively, because that's what makes you go forward! Zeal, strength and initiative!**
+- ⚡ Fact: **I am an extremely creative person. I also adhere to this position in programming. My creativity and logic miraculously fit. I love to sing, and I write poems to songs to order. I like to think positively, because that's what makes you go forward! Zeal, strength and initiative!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

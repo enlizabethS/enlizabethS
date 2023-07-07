@@ -8,9 +8,8 @@
 
 - 📝 I sometimes create interesting content: [https://instagram.com/_endorphinchik_?utm_medium=copy_link](https://instagram.com/_endorphinchik_?utm_medium=copy_link)
 
-- 📫 My Telegram:  [https://t.me/endorphinchik18] (https://t.me/endorphinchik18)
+- 📫 My Telegram: https://t.me/endorphinchik18 
 
-- 📄 Know about my experiences: [https://drive.google.com/file/d/1AP8TSeHSsmHhe-TSKb2yEASneXk_Czyl/view?usp=sharing](https://drive.google.com/file/d/1AP8TSeHSsmHhe-TSKb2yEASneXk_Czyl/view?usp=sharing)
 
 - ⚡ Fact: **I am an extremely creative person. I also adhere to this position in programming. My creativity and logic miraculously fit. I love to sing, and I write poems to songs to order. I like to think positively, because that's what makes you go forward! Zeal, strength and initiative!**
 

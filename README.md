@@ -8,7 +8,7 @@
 
 - 📝 I sometimes create interesting content: [https://instagram.com/_endorphinchik_?utm_medium=copy_link](https://instagram.com/_endorphinchik_?utm_medium=copy_link)
 
-- 📫 My Telegram: **endorphinchik18**
+- 📫 My Telegram:  [https://t.me/endorphinchik18] (https://t.me/endorphinchik18)
 
 - 📄 Know about my experiences: [https://drive.google.com/file/d/1AP8TSeHSsmHhe-TSKb2yEASneXk_Czyl/view?usp=sharing](https://drive.google.com/file/d/1AP8TSeHSsmHhe-TSKb2yEASneXk_Czyl/view?usp=sharing)
 

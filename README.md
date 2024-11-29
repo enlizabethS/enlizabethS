@@ -7,6 +7,8 @@
 - Over 2 years of experience in frontend and backend development.
 - Currently developing my own applications:
   - **"Der Noten Igel"**: A musical application that transforms user-generated sounds and melodies into precise musical scores with features like audio-to-sheet music conversion, real-time melody generation, and note editing.
+    - [Backend](https://github.com/enlizabethS/DerNotenIgel-backE)
+    - [Frontend](https://github.com/enlizabethS/dernotenigelfront)
 - 3rd-year law student with strong analytical and research skills that complement my technical expertise.
 - Completed training at **AIT TR courses** and was offered an internship as one of the top students. During the internship, I contributed to improving the student platform by configuring registration and implementing email sending functionality.
 - Knowledgeable in QA processes, including manual testing and basic load testing.

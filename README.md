@@ -1,21 +1,34 @@
-<h1 align="center">Hi 👋, I'm Elizabeth</h1>
-<h2 align="center">21 years old</h2>
-<h3 align="center">I'm a programmer. FrontEnd and BackEnd. And I know the basics QA.</h3>
+<h1 align="center">Hi, I'm Elizaveta Stepura</h1>
+<h2 align="center">21 years old | Full-Stack Developer </h2>
 
-- 🌱 I’m currently learning: **AIT TR courses**
+---
 
-- 👨‍💻 All of my projects are available at: [https://github.com/enlizabethS?tab=repositories](https://github.com/enlizabethS?tab=repositories)
+### About Me
+- Junior Developer with experience in Full-Stack Development, specializing in both Frontend (React, Vue.js) and Backend (Java, Spring Boot).
+- Over 2 years of experience in frontend and backend development.
+- Currently developing my own applications:
+  - **"Der Noten Igel"**: A musical application that transforms user-generated sounds and melodies into precise musical scores with features like audio-to-sheet music conversion, real-time melody generation, and note editing.
+- 3rd-year law student with strong analytical and research skills that complement my technical expertise.
+- Completed training at **AIT TR courses** and was offered an internship as one of the top students. During the internship, I contributed to improving the student platform by configuring registration and implementing email sending functionality.
+- Knowledgeable in QA processes, including manual testing and basic load testing.
 
-- 📝 I sometimes create interesting content: [https://instagram.com/_endorphinchik_?utm_medium=copy_link](https://instagram.com/_endorphinchik_?utm_medium=copy_link)
+### Technical Skills
+- **Frontend**: React.js, Vue.js, HTML, CSS, Bootstrap
+- **Backend**: Java, Spring Boot, Node.js, Hibernate
+- **Database**: MySQL, PostgreSQL
+- **Development Tools**: Git, Docker, Postman, Redux, JIRA
 
-- 📫 My Telegram: https://t.me/endorphinchik18 
+### Strengths
+- Creativity & Logic: Combining creative thinking with logical problem-solving to deliver innovative solutions.
+- Initiative & Positivity: Approaching challenges with enthusiasm and maintaining a proactive mindset.
+- Strong Communication: Experience in collaborating with teams and presenting ideas effectively.
 
-
-- ⚡ Fact: **I am an extremely creative person. I also adhere to this position in programming. My creativity and logic miraculously fit. I love to sing, and I write poems to songs to order. I like to think positively, because that's what makes you go forward! Zeal, strength and initiative!**
+### Fun Fact
+I approach coding with the mindset of solving puzzles—every bug is just another clue to crack the code.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/elisabeth-stepura-it/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/elisabeth-stepura-it/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/elisabeth-stepura-it/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/elisabeth-stepura-it/" height="30" width="40" /></a>
 <a href="https://instagram.com/_endorphinchik_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_endorphinchik_" height="30" width="40" /></a>
 </p>
 

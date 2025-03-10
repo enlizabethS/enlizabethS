@@ -1,6 +1,6 @@
 <h2 align="center"> Hi, I'm Elizaveta Stepura </h2>
 
-<h3 align="center"> 21 years old | Full-Stack Developer </h3>
+<h3 align="center"> 22 years old | Full-Stack Developer </h3>
 
 ### About Me
 - Junior Developer with experience in Full-Stack Development, specializing in both Frontend (React, Vue.js) and Backend (Java, Spring Boot).
